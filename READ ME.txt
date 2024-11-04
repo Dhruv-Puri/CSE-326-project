@@ -1,2 +1,7 @@
 The main html file name is "main-website" made by Dhruv Puri , roll no - 8 , 12408037, 
 K24FE section from Lovely Proffessional University.
+
+
+Note - In order to run this file, first download the zip file of the repository from the given options and then extract it to make the code work
+else it will not work 
+Thank You.
